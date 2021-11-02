@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">附加设置</string>
+    <string name="action_settings">设置</string>
+    <string name="follow_me">关注我的微博</string>
+    <string name="follow_me_title">关注我</string>
+    <string name="about_title">关于</string>
+    <string name="follow_me_bili">关注我的哔哩哔哩</string>
+    <string name="donate_me_wechat">通过微信支付捐赠我</string>
+    <string name="donate_me_alipay">通过支付宝捐赠我</string>
+    <string name="author">作者</string>
+    <string name="reboot_recovery">重启到 Recovery(恢复模式)</string>
+    <string name="reboot_bl">重启到 Bootloader(引导加载程序)</string>
+    <string name="reboot_title">高级重启</string>
+    <string name="gesture_title">三段式开关</string>
+
+    <string name="up">上</string>
+    <string name="center">中</string>
+    <string name="bottom">下</string>
+    <string name="misc_title">杂项</string>
+    <string name="force_linear_mode">全局线性马达模式</string>
+    <string name="force_linear_mode_summary">强制使用线性马达震动模式，无论应用程序要求的是普通震动还是特效震动(仅短震动)</string>
+    <string name="refresh_rate">刷新率</string>
+    <string name="resolution_switch">分辨率</string>
+    <string name="new_noti_vibrator_mode">新的通知震动模式</string>
+    <string name="new_noti_vibrator_mode_summary">在屏幕开启状态下使用更舒服的线性震动来提示新通知</string>
+    <string name="boost_settings_title">性能增强模式策略</string>
+    <string name="force_60hz_apps">60Hz 应用</string>
+    <string name="force_60hz_apps_summary">当这个列表内的应用运行时将使用60Hz，除此之外将保持您设置的刷新率</string>
+    <string name="tp_game_mode">游戏时使用触摸屏游戏模式</string>
+    <string name="tp_game_mode_summary">当系统进入游戏模式时增强触摸灵敏度(超灵敏模式)</string>
+    <string name="batt_chg_speed">充电功率</string>
+    <string name="batt_cur">电池电流</string>
+    <string name="batt_fcc">电池可用的容量</string>
+    <string name="battery_info_title">电池信息</string>
+    <string name="refresh_rate_policy_title">刷新率切换逻辑</string>
+    <string name="use_90hz_games_policy_title">90Hz 游戏</string>
+    <string name="use_90hz_games_policy_summary">当这个列表内的游戏运行时将使用90Hz，除此之外将使用60Hz来避免撕裂</string>
+    <string name="reset_screen_title">息屏显示后亮屏重置屏幕</string>
+    <string name="reset_screen_title_summary">防止息屏显示指纹解锁或开屏后黑屏问题</string>
+    <string name="reset_screen_warning">开启此功能后会稍微让息屏指纹解锁或开屏时的时间延长，并有可能在重置屏幕时出现白线或暂时性的画面残留！\n\n请不要因为这个功能反馈任何有关此类问题的Bug！！！</string>
+    <string name="got_it">俺知道了!</string>
+    <string name="dolby_atmos">杜比全景声</string>
+    <string name="dolby_atmos_summary">可能需要暂停当前播放的内容再播放来使更改生效</string>
+
+</resources>

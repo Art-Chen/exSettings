@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Extra Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="follow_me">Follow Me on Weibo</string>
+    <string name="follow_me_title">Follow Me</string>
+    <string name="about_title">About</string>
+    <string name="follow_me_bili">Follow me on BiliBili</string>
+    <string name="donate_me_wechat">Donate me by Wechat Payment</string>
+    <string name="donate_me_alipay">Donate me by Alipay</string>
+    <string name="author">Author</string>
+    <string name="reboot_recovery">Reboot to Recovery</string>
+    <string name="reboot_bl">Reboot to Bootloader</string>
+    <string name="reboot_title">Advanced Reboot</string>
+    <string name="gesture_title">Trigger Key</string>
+
+    <string name="up">UP</string>
+    <string name="center">CENTER</string>
+    <string name="bottom">BOTTOM</string>
+    <string name="misc_title">Misc</string>
+    <string name="force_linear_mode_summary">Force Map Normal Vibrate to Linear Vibrator when short vibrate</string>
+    <string name="force_linear_mode">Always Linear Vibrate Mode</string>
+    <string name="refresh_rate">Refresh Rate</string>
+    <string name="resolution_switch">Resolution</string>
+    <string name="nfc_title">NFC</string>
+    <string name="new_noti_vibrator_mode">New Notification Vibrator Mode</string>
+    <string name="new_noti_vibrator_mode_summary">Only Do Normal Notification Vibrate when Screen OFF</string>
+    <string name="force_60hz_apps">60Hz Apps</string>
+    <string name="force_60hz_apps_summary">The application in this list will run at 60Hz, but otherwise keep the refresh rate you set</string>
+    <string name="batt_chg_speed">Charging Power Watt</string>
+    <string name="batt_cur">Battery Current</string>
+    <string name="batt_fcc">Battery Usable Capacity</string>
+    <string name="usb_charge_type">Charge Type</string>
+    <string name="battery_info_title">Battery Info</string>
+    <string name="refresh_rate_policy_title">Refresh Rate Switch Policy</string>
+    <string name="use_90hz_games_policy_title">90Hz Games</string>
+    <string name="use_90hz_games_policy_summary">The games in this list will run at 90Hz, but otherwise 60Hz to avoid tearing</string>
+    <string name="aod_alway_mode_title">Aod Always Mode</string>
+    <string name="aod_alway_mode_summary">Always show aod view, even device is takedown(Still Check pocket mode)</string>
+    <string name="dolby_atmos">Dolby Atmos</string>
+    <string name="dolby_atmos_summary">Maybe need pause and then play the current audio to apply changes</string>
+
+</resources>

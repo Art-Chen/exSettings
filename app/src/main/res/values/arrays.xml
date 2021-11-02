@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slide_setting_describe">
+        <item>Open Camera</item>
+        <item>Open Front Camera</item>
+        <item>Turn On / Off Flashlight</item>
+        <item>支付宝收款</item>
+        <item>支付宝付款</item>
+        <item>Alipay QRCode Scanner</item>
+        <item>微信付款</item>
+        <item>微信收款</item>
+        <item>Wechat QRCode Scanner</item>
+        <item>XiaoAi Shortcut</item>
+        <item>Do Nothing</item>
+    </string-array>
+    <string-array name="slide_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="cpu_mode_describe">
+        <item>Default</item>
+        <item>Game Mode</item>
+        <item>Performance mode (Beware of high temperatures)</item>
+        <item>Super Power Saving</item>
+        <item>Power Saving</item>
+    </string-array>
+    <string-array name="cpu_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="custom_sound_on_slide">
+        <item>Technology</item>
+        <item>River &amp; Lake</item>
+        <item>Organ</item>
+        <item>Clever</item>
+        <item>Zippo</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="custom_sound_on_slide_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="default_value" />
+</resources>

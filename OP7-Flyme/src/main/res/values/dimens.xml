@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_value" />
+    <dimen name="preference_custom_left_right_padding">24.0dip</dimen>
+    <dimen name="preference_custom_min_height">50.0dip</dimen>
+    <dimen name="settings_side_margin">0.0dip</dimen>
+    <dimen name="dashboard_category_elevation">2.0dip</dimen>
+</resources>

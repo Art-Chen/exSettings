@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tri_key_setting_describe">
+        <item>原厂功能</item>
+        <item>打开相机</item>
+        <item>勿扰模式</item>
+        <item>震动模式</item>
+        <item>响铃模式</item>
+        <item>打开手电筒</item>
+        <item>关闭手电筒</item>
+        <item>支付宝收款</item>
+        <item>支付宝付款</item>
+        <item>支付宝扫一扫</item>
+        <item>微信付款</item>
+        <item>微信收款</item>
+        <item>微信扫一扫</item>
+        <item>小爱捷径</item>
+        <item>什么都不做</item>
+    </string-array>
+    <string-array name="refresh_rate_setting_describe">
+        <item>动态</item>
+        <item>90 赫兹</item>
+        <item>60 赫兹</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+include ':app'
+include ':Z5'
+include ':Z6Pro'
+include ':OP7'
+include ':OP7-Flyme'
+include ':RenoAce'
+include ':RenoAce-Flyme'
+rootProject.name='Extra Settings'

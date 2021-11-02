@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">附加设置</string>
+    <string name="action_settings">设置</string>
+    <string name="follow_me">关注我的微博</string>
+    <string name="follow_me_title">关注我</string>
+    <string name="about_title">关于</string>
+    <string name="follow_me_bili">关注我的bilibili</string>
+    <string name="donate_me_wechat">通过微信支付捐赠我</string>
+    <string name="donate_me_alipay">通过支付宝捐赠我</string>
+    <string name="author">作者</string>
+    <string name="reboot_recovery">重启到 Recovery(恢复模式)</string>
+    <string name="reboot_bl">重启到 Bootloader(引导加载程序)</string>
+    <string name="reboot_title">高级重启</string>
+    <string name="gesture_title">体感手势</string>
+    <string name="slide">滑盖</string>
+    <string name="pat">拍一拍</string>
+    <string name="chop">切一切</string>
+    <string name="camgest">转一转</string>
+    <string name="misc_title">杂项</string>
+    <string name="slide_to_answer">滑盖接听</string>
+    <string name="slide_to_answer_summary">滑下滑盖来接听电话</string>
+    <string name="slide_to_reject">滑盖挂断</string>
+    <string name="slide_to_reject_summary">关闭滑盖来挂断当前通话</string>
+    <string name="vibrate_on_slide">滑盖时震动</string>
+    <string name="vibrate_on_slide_summary">当开启或关闭滑盖时震动</string>
+    <string name="vibrate_on_gesture">触发手势时震动</string>
+    <string name="vibrate_on_gesture_summary">当手势被触发时震动</string>
+    <string name="cpu_mode">性能策略</string>
+    <string name="camera_api_v2">打开Camera API V2</string>
+    <string name="camera_api_v2_summary">Camera API V2能让你顺利使用谷歌相机，但也将带来部分兼容性问题（比如微信视频很黑）</string>
+</resources>

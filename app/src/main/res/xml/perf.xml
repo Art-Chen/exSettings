@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/app_name">
+    <androidx.preference.PreferenceCategory
+        android:title="@string/gesture_title"
+        android:layout="@layout/preference_category_widget">
+        <androidx.preference.ListPreference
+            android:layout="@layout/preference_item"
+            android:key="slide"
+            android:defaultValue="1"
+            android:entries="@array/slide_setting_describe"
+            android:entryValues="@array/slide_setting_values"
+            android:title="@string/slide" />
+        <androidx.preference.ListPreference
+            android:layout="@layout/preference_item"
+            android:key="pat"
+            android:defaultValue="6"
+            android:entries="@array/slide_setting_describe"
+            android:entryValues="@array/slide_setting_values"
+            android:title="@string/pat" />
+        <androidx.preference.ListPreference
+            android:layout="@layout/preference_item"
+            android:key="chop"
+            android:defaultValue="2"
+            android:entries="@array/slide_setting_describe"
+            android:entryValues="@array/slide_setting_values"
+            android:title="@string/chop" />
+        <androidx.preference.ListPreference
+            android:layout="@layout/preference_item"
+            android:key="camgest"
+            android:defaultValue="0"
+            android:entries="@array/slide_setting_describe"
+            android:entryValues="@array/slide_setting_values"
+            android:title="@string/camgest" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory
+        android:key="misc"
+        android:title="@string/misc_title"
+        android:layout="@layout/preference_category_widget">
+        <androidx.preference.CheckBoxPreference
+            android:layout="@layout/preference_item"
+            android:defaultValue="true"
+            android:key="slide2answer"
+            android:title="@string/slide_to_answer"
+            android:summary="@string/slide_to_answer_summary" >
+        </androidx.preference.CheckBoxPreference>
+        <androidx.preference.CheckBoxPreference
+            android:layout="@layout/preference_item"
+            android:defaultValue="false"
+            android:key="slide2reject"
+            android:title="@string/slide_to_reject"
+            android:summary="@string/slide_to_reject_summary" >
+        </androidx.preference.CheckBoxPreference>
+        <androidx.preference.CheckBoxPreference
+            android:layout="@layout/preference_item"
+            android:defaultValue="true"
+            android:key="vibrateonslide"
+            android:title="@string/vibrate_on_slide"
+            android:summary="@string/vibrate_on_slide_summary" >
+        </androidx.preference.CheckBoxPreference>
+        <androidx.preference.CheckBoxPreference
+            android:layout="@layout/preference_item"
+            android:defaultValue="true"
+            android:key="vibrateongesture"
+            android:title="@string/vibrate_on_gesture"
+            android:summary="@string/vibrate_on_gesture_summary" >
+        </androidx.preference.CheckBoxPreference>
+        <androidx.preference.CheckBoxPreference
+            android:layout="@layout/preference_item"
+            android:defaultValue="true"
+            android:key="playsoundonslide"
+            android:title="@string/play_sound_on_slide"
+            android:summary="@string/play_sound_on_slide_summary" >
+        </androidx.preference.CheckBoxPreference>
+        <androidx.preference.ListPreference
+            android:layout="@layout/preference_item"
+            android:key="slidesoundpath"
+            android:defaultValue="0"
+            android:shouldDisableView="true"
+            android:entries="@array/custom_sound_on_slide"
+            android:entryValues="@array/custom_sound_on_slide_values"
+            android:title="@string/custom_sound_on_slide_title" />
+        <androidx.preference.ListPreference
+            android:layout="@layout/preference_item"
+            android:key="cpumode"
+            android:defaultValue="0"
+            android:entries="@array/cpu_mode_describe"
+            android:entryValues="@array/cpu_mode_values"
+            android:title="@string/cpu_mode" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory
+        android:title="@string/follow_me_title"
+        android:layout="@layout/preference_category_widget">
+        <androidx.preference.Preference
+            android:layout="@layout/preference_item"
+            android:title="@string/author"
+            android:summary="Art_Chen">
+        </androidx.preference.Preference>
+        <androidx.preference.Preference
+            android:layout="@layout/preference_item"
+            android:title="@string/follow_me">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://weibo.com/imchenxy"/>
+        </androidx.preference.Preference>
+        <androidx.preference.Preference
+            android:layout="@layout/preference_item"
+            android:title="@string/follow_me_bili">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://space.bilibili.com/7697432"/>
+        </androidx.preference.Preference>
+    </androidx.preference.PreferenceCategory>
+</androidx.preference.PreferenceScreen>

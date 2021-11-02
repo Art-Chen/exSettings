@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tri_key_setting_describe">
+        <item>Stock</item>
+        <item>Open Camera</item>
+        <item>DND Mode</item>
+        <item>Vibrate</item>
+        <item>Ring</item>
+        <item>Turn On Flash Light</item>
+        <item>Turn Off Flash Light</item>
+        <item>支付宝收款</item>
+        <item>支付宝付款</item>
+        <item>Alipay QRCode Scanner</item>
+        <item>微信付款</item>
+        <item>微信收款</item>
+        <item>Wechat QRCode Scanner</item>
+        <item>XiaoAi Shortcut</item>
+        <item>Do Nothing</item>
+    </string-array>
+    <string-array name="tri_key_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="refresh_rate_setting_describe">
+        <item>Dynamic</item>
+        <item>90 Hz</item>
+        <item>60 Hz</item>
+    </string-array>
+    <string-array name="refresh_rate_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="resolution_switch_setting_describe">
+        <item>2K</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="resolution_switch_setting_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="low_refresh_rate_apps_default_value">
+        <item>com.qiyi.video</item>
+        <item>com.ss.android.ugc.aweme</item>
+        <item>com.smile.gifmaker</item>
+        <item>com.ss.android.article.video</item>
+        <item>com.tencent.qqlive</item>
+        <item>tv.danmaku.bili</item>
+        <item>com.ss.android.ugc.live</item>
+        <item>com.youku.phone</item>
+        <item>com.kuaishou.nebula</item>
+        <item>tv.pps.mobile</item>
+        <item>com.baidu.haokan</item>
+        <item>com.ss.android.ugc.aweme.lite</item>
+        <item>com.duowan.kiwi</item>
+        <item>com.le123.ysdq</item>
+        <item>com.hunantv.imgo.activity</item>
+        <item>air.tv.douyu.android</item>
+        <item>com.tencent.karaoke</item>
+        <item>com.yeahka.mach.android.shuabao</item>
+        <item>com.xunlei.downloadprovider</item>
+        <item>com.tencent.weishi</item>
+        <item>com.babycloud.hanju</item>
+        <item>com.ss.android.ugc.livelite</item>
+        <item>com.cmcc.cmvideo</item>
+        <item>com.tencent.videolite.android</item>
+        <item>com.duowan.mobile</item>
+        <item>tv.yixia.bobo</item>
+        <item>com.sohu.sohuvideo</item>
+        <item>com.qihoo.video</item>
+        <item>com.mt.mtxx.mtxx</item>
+        <item>video.like</item>
+        <item>com.tencent.qgame</item>
+        <item>com.letv.android.client</item>
+        <item>cn.cntv</item>
+        <item>com.baidu.minivideo</item>
+        <item>com.pplive.androidphone</item>
+        <item>tv.acfundanmaku.video</item>
+        <item>com.lemon.faceu</item>
+        <item>com.meitu.meiyancamera</item>
+        <item>com.changba</item>
+        <item>com.diyidan</item>
+    </string-array>
+
+    <string-array name="use_90_refresh_rate_games_default_value">
+        <item>com.yinhan.skzh</item>
+        <item>com.yinhan.skzh.yinhan</item>
+        <item>com.yinhan.skzh.mz</item>
+        <item>com.netease.onmyoji</item>
+        <item>com.netease.onmyoji.mz</item>
+        <item>com.tencent.shootgame</item>
+        <item>com.tencent.tmgp.speedmobile</item>
+        <item>com.minitech.miniworld</item>
+        <item>com.minitech.miniworld.meizu</item>
+        <item>com.tencent.game.rhythmmaster</item>
+        <item>com.cmplay.tiles2_cn</item>
+        <item>com.cmplay.tiles2_cn.mz</item>
+        <item>com.brianbaek.popstar</item>
+        <item>com.mfp.jelly</item>
+        <item>com.mfp.jelly.meizu</item>
+        <item>com.fgol</item>
+        <item>com.tencent.af</item>
+        <item>com.netease.lztg.mz</item>
+        <item>com.netease.lztg</item>
+        <item>com.tencent.YiRen</item>
+        <item>com.miHoYo.bh3.uc</item>
+        <item>com.miHoYo.bh3.mz</item>
+        <item>com.miHoYo.bh3</item>
+        <item>com.tencent.tmgp.pubgmhd</item>
+        <item>com.pwrd.xxajh.nearme.gamecenter</item>
+        <item>com.tencent.qs</item>
+        <item>com.protopop.brightridge</item>
+        <item>com.tencent.tmgp.WePop</item>
+        <item>com.tencent.tmgp.cf</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.kiloo.subwaysurf</item>
+        <item>com.tencent.KiHan</item>
+    </string-array>
+
+</resources>

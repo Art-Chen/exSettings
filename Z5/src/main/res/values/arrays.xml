@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slide_setting_describe">
+        <item>Open Camera</item>
+        <item>Open Front Camera</item>
+        <item>Turn On / Off Flashlight</item>
+        <item>支付宝收款</item>
+        <item>支付宝付款</item>
+        <item>支付宝扫一扫</item>
+        <item>微信付款</item>
+        <item>微信收款</item>
+        <item>微信扫一扫</item>
+        <item>Do Nothing</item>
+    </string-array>
+    <string-array name="slide_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="cpu_mode_describe">
+        <item>Default</item>
+        <item>Game Mode</item>
+        <item>Performance mode (Beware of high temperatures)</item>
+        <item>Super Power Saving</item>
+        <item>Power Saving</item>
+    </string-array>
+    <string-array name="cpu_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

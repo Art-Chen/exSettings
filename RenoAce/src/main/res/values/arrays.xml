@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tri_key_setting_describe">
+        <item>Stock</item>
+        <item>Open Camera</item>
+        <item>DND Mode</item>
+        <item>Vibrate</item>
+        <item>Ring</item>
+        <item>Turn On Flash Light</item>
+        <item>Turn Off Flash Light</item>
+        <item>支付宝收款</item>
+        <item>支付宝付款</item>
+        <item>Alipay QRCode Scanner</item>
+        <item>微信付款</item>
+        <item>微信收款</item>
+        <item>Wechat QRCode Scanner</item>
+        <item>XiaoAi Shortcut</item>
+        <item>Do Nothing</item>
+    </string-array>
+    <string-array name="tri_key_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="refresh_rate_setting_describe">
+        <item>Dynamic</item>
+        <item>90 Hz</item>
+        <item>60 Hz</item>
+    </string-array>
+    <string-array name="refresh_rate_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="resolution_switch_setting_describe">
+        <item>2K</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="resolution_switch_setting_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="boost_setting_describe">
+        <item>Disable</item>
+        <item>Enable for Global</item>
+        <item>Enable for Game Mode</item>
+        <item>Enable for PUBG Only</item>
+    </string-array>
+
+    <string-array name="low_refresh_rate_apps_default_value">
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.tencent.tmgp.WePop</item>
+        <item>com.tencent.KiHan</item>
+        <item>com.tencent.tmgp.sgamece</item>
+    </string-array>
+</resources>

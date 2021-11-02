@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/custom_sound_on_slide_title">
+        <androidx.preference.Preference
+            android:layout="@layout/preference_item"
+            android:key="slidesoundonpath"
+            android:title="@string/custom_sound_on_slide_on" />
+        <androidx.preference.Preference
+            android:layout="@layout/preference_item"
+            android:key="slidesoundoffpath"
+            android:title="@string/custom_sound_on_slide_off" />
+</androidx.preference.PreferenceScreen>
